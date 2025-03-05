@@ -26,9 +26,9 @@ def hello():
 *斜体文本*  
 ~~删除线文本~~
 
-[超链接示例](https://example.com)
+[访问 Google](https://www.google.com)
 
-![图片示例](https://example.com/image.jpg)
+![截图](https://github.com/ilovescho-O-olsomuch/data-analysis/blob/main/%E5%9B%BE%E7%89%871.png)
 
 1. 有序列表项 1
 2. 有序列表项 2
