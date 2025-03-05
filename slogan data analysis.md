@@ -13,4 +13,4 @@ def hello():
 ```
 
 ## 项目截图
-![截图]("C:\Users\32165\Desktop\图片1.png")
+![截图](file:///C:/Users/32165/Desktop/图片1.png)
