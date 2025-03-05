@@ -16,13 +16,5 @@ def hello():
 ![截图](https://github.com/ilovescho-O-olsomuch/data-analysis/blob/main/%E5%9B%BE%E7%89%871.png)
 
 ## markdown(md)文件的格式
-
-功能	语法示例	说明
-标题	# 一级标题 → <h1>	用 # 数量表示标题级别（1-6）
-文字加粗	**加粗** → 加粗	用 ** 包裹文字
-斜体	*斜体* → 斜体	用 * 包裹文字
-无序列表	- 项目1 → • 项目1	用 -、+ 或 * 开头
-有序列表	1. 项目1 → 1. 项目1	用数字和 . 开头
-代码块	```python\nprint()\n```	三个反引号包裹，指定语言可高亮
-超链接	[链接文字](URL)	文字显示为链接
-图片	![描述](图片路径)	与链接类似，前面加 !
+![markdown格式](![屏幕截图 2025-03-05 154430](https://github.com/user-attachments/assets/01ccab7e-7367-40a0-9f7e-a26df275cab5)
+)
