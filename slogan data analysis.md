@@ -13,4 +13,4 @@ def hello():
 ```
 
 ## 项目截图
-![截图](file:///C:/Users/32165/Desktop/图片1.png)
+![截图](https://github.com/ilovescho-O-olsomuch/data-analysis/blob/main/%E5%9B%BE%E7%89%871.png)
