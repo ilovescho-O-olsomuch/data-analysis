@@ -16,5 +16,5 @@ def hello():
 ![截图](https://github.com/ilovescho-O-olsomuch/data-analysis/blob/main/%E5%9B%BE%E7%89%871.png)
 
 ## markdown(md)文件的格式
-![markdown格式](![屏幕截图 2025-03-05 154430](https://github.com/user-attachments/assets/01ccab7e-7367-40a0-9f7e-a26df275cab5)
-)
+![markdown格式](https://github.com/user-attachments/assets/01ccab7e-7367-40a0-9f7e-a26df275cab5)
+
