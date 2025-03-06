@@ -7,7 +7,7 @@
 
 ## Context
 
-"Just do it" (nike), "Das Auto"(Volkswagen), "High Performance Delivered" (Accenture), "Think Different" (Apple) are some of the all-time famous slogans (mottos/taglines) of the famous corporations. They have left a mark in the minds of the audience. I was curious to understand the thought process behind the slogans, aside from knowing which company has which slogan. These tagline/mottos are a reflection of the company, the organization culture, the psychology and mindset. More than anything else, it is a symbol.
+"Just do it" (Nike), "Das Auto"(Volkswagen), "High Performance Delivered" (Accenture), "Think Different" (Apple) are some of the all-time famous slogans (mottos/taglines) of the famous corporations. They have left a mark in the minds of the audience. I was curious to understand the thought process behind the slogans, aside from knowing which company has which slogan. These tagline/mottos are a reflection of the company, the organization culture, the psychology and mindset. More than anything else, it is a symbol.
 
 ## Content
 
@@ -20,7 +20,7 @@ Explore the dynamics of advertising impact on product sales with this synthesize
 
 This file, named **Advertising_Data.csv** contains a dataset meticulously created for **analytical exploration.** With 300 rows of data, it encapsulates advertising costs across various platforms **(TV, Billboards, Google Ads, Social Media, Influencer Marketing, and Affiliate Marketing)**. The seventh column **'Product_Sold'** quantifies the respective number of units sold. This dataset serves as a valuable resource for investigating the impact of advertising on product sales. The simplicity of the file structure makes it easy to analyze and draw insights into effective marketing strategies.
 
-# retail transaction dataset
+# Retail transaction dataset
 
 Unlocking insights into consumer behavior and retail dynamics, this comprehensive dataset captures the essence of transactions within a retail environment. Featuring ten essential columns, including CustomerID, ProductID, Quantity, Price, TransactionDate, PaymentMethod, StoreLocation, ProductCategory, DiscountApplied(%), and TotalAmount, this dataset encapsulates crucial information for retail analytics. Each entry provides a glimpse into the intricate interactions between customers, products, and sales channels, facilitating the exploration of purchasing patterns, popular products, pricing strategies, and regional preferences.
 
@@ -36,7 +36,7 @@ Unlocking insights into consumer behavior and retail dynamics, this comprehensiv
 9. `DiscountApplied(%):` Percentage of the discount applied to the product.
 10. `TotalAmount:` Total amount paid for the transaction.
 
-# amazon consumer behaviour dataset
+# Amazon consumer behaviour dataset
 
 ## About Dataset
 
